@@ -208,20 +208,6 @@ Through this project, I practiced:
 
 ---
 
-# 🚀 Future Improvements
-
-Some possible extensions to this project include:
-
-* Adding more advanced SQL analysis
-* Creating customer-level analysis if customer data becomes available
-* Adding profit and cost analysis
-* Building a Power BI version of the dashboard
-* Automating the data refresh process
-* Adding forecasting for future sales
-* Creating a more detailed product recommendation analysis
-
----
-
 ## 📌 Project Summary
 
 **Pizza Store Sales Analysis & Dashboard** demonstrates how SQL and Excel can be combined to turn raw transactional data into useful business intelligence.
